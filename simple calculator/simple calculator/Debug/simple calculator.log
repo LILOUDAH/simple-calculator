@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Yazan\Desktop\vs\simple calculator\simple calculator\MyForm.cpp(11,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  simple calculator.vcxproj -> C:\Users\Yazan\Desktop\vs\simple calculator\Debug\simple calculator.exe

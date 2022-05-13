@@ -1,0 +1,3 @@
+C:\Users\Yazan\Desktop\vs\simple calculator\simple calculator\Debug\simple calculator.vcxproj.AssemblyReference.cache
+C:\Users\Yazan\Desktop\vs\simple calculator\simple calculator\Debug\simplecalculator.MyForm.resources
+C:\Users\Yazan\Desktop\vs\simple calculator\simple calculator\Debug\simple calculator.vcxproj.GenerateResource.cache
